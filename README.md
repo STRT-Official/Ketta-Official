@@ -1,7 +1,7 @@
 # Ketta ..Yet another virtual assistant
 
 Dear devlopers, 
-              <p>This is a public beta version of this assistant, so you may face some bugs or problems.</p>
+              <p>This is a public stable release of this assistant, so you may face some bugs or problems.</p>
               
 # Installation
 
