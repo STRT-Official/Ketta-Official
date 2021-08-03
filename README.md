@@ -9,9 +9,15 @@ Important note!!! : This build only works on linux(preferably arch linux) but we
 
 Requiremets : wget, unzip(this is mosly preinstalled in all linux) and docker(if you want to do speech syntheses)
 
-Step 1: run the setup.py file to download the required models.
-Step 2(The last one..) : run the vad.py file to start the assistant.
+`git clone https://github.com/STRT-Official/Ketta-Official`
 
+`cd Ketta-Official`
+
+`python setup.py`
+
+# Using
+
+simply run the `vad.py` file.
 
 Disclaimer : There are situations when the vad.py file will not close when you press ctrl+c. In that case, please close that terminal 
 and use a new one.
