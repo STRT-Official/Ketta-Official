@@ -1,3 +1,12 @@
+![Image of Yaktocat](https://raw.githubusercontent.com/STRT-Official/storage-plant/a33f89f0b8a3b3c7b545c71dd46929fd552e1218/LOGO.svg)
+
+
+
+
+
+
+
+
 # Ketta ..Yet another virtual assistant
 
 Dear devlopers, 
