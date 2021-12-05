@@ -9,14 +9,14 @@
 
 # Ketta ..Yet another virtual assistant
 
-Dear devlopers, 
-              <p>This is a public stable release of this assistant, but you may face some bugs or problems.</p>
+Dear developers, 
+              <p>This is not a public stable release, so you may face some bugs.</p>
               
 # Installation
 
-Important note!!! : This build only works on linux(preferably arch linux) but we will soon port it to other OSes (windows is in progress, almost completed!!) as well. Also installing Ketta may take a while.
+Important note!!! : This build only works on linux(preferably arch) but we will soon port it to other OSes (windows is in progress, almost completed!!) as well. Installing Ketta may take a while.
 
-Requiremets : wget, unzip(this is mosly preinstalled in all linux) and docker(if you want to do speech syntheses)
+Requiremets : wget, unzip(this is mosly preinstalled in all linux distros) and docker(if you want to do speech syntheses)
 
 `git clone https://github.com/STRT-Official/Ketta-Official`
 
