@@ -1,10 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/STRT-Official/storage-plant/a33f89f0b8a3b3c7b545c71dd46929fd552e1218/LOGO.svg">
 
-
-
-
-
-
+<p align="center">
+  <img width="410" height="410" src="https://raw.githubusercontent.com/STRT-Official/storage-plant/a33f89f0b8a3b3c7b545c71dd46929fd552e1218/LOGO.svg">
+</p>
 
 
 # Ketta ..Yet another virtual assistant
