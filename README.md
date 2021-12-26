@@ -21,6 +21,16 @@ Requiremets : wget, unzip(this is mosly preinstalled in all linux distros) and d
 
 `python setup.py`
 
+# Wake-Word module 
+
+We use a method called `transfer learning`. It means that we already have a pre-trained model , which can be expanded further.
+
+Visualization of our current model :
+
+<p align="center">
+  <img width="410" height="1000" src="https://raw.githubusercontent.com/STRT-Official/storage-plant/main/model_visualized.png">
+</p>
+
 # Using
 
 simply run the `vad.py` file.
