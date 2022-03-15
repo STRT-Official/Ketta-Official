@@ -11,7 +11,7 @@ Dear developers,
               
 # Installation
 
-Important note!!! : This build only works on linux(preferably arch) but we will soon port it to other OSes (windows is in progress, almost completed!!) as well. Installing Ketta may take a while.
+Important note!!! : This build only works on linux(preferably arch) but we will soon port it to other OSes (windows is in progress.
 
 Requiremets : wget, unzip(this is mosly preinstalled in all linux distros) and docker(if you want to do speech syntheses)
 
@@ -25,7 +25,7 @@ Requiremets : wget, unzip(this is mosly preinstalled in all linux distros) and d
 
 We use a method called `transfer learning`. It means that we already have a pre-trained model , which can be expanded further.
 
-Visualization of our current model :
+Visualization of the wake-word-recog current model :
 
 <p align="center">
   <img width="410" height="1000" src="https://raw.githubusercontent.com/STRT-Official/storage-plant/main/model_visualized.png">
