@@ -7,35 +7,28 @@
 # Ketta ..Yet another virtual assistant
 
 Dear developers, 
-              <p>This is not a public stable release, so you may face some bugs.</p>
               
 # Installation
 
-Important note!!! : This build only works on linux(preferably arch) but we will soon port it to other OSes (windows is in progress.
+Important note!!! : This build only works on linux(preferably arch)
 
-Requiremets : wget, unzip(this is mosly preinstalled in all linux distros) and docker(if you want to do speech syntheses)
+Requirements have been listed in the requirements.txt file.
 
 `git clone https://github.com/STRT-Official/Ketta-Official`
 
 `cd Ketta-Official`
 
-`python setup.py`
+`pip install -r requirements.txt`
 
 # Wake-Word module 
 
-We use a method called `transfer learning`. It means that we already have a pre-trained model , which can be expanded further.
+This is the main module. It recognizes the wake word/keyword "Hey Ketta".
 
-Visualization of the wake-word-recog current model :
+# Usage
 
-<p align="center">
-  <img width="410" height="1000" src="https://raw.githubusercontent.com/STRT-Official/storage-plant/main/model_visualized.png">
-</p>
-
-# Using
-
-simply run the `vad.py` file.
-
-Disclaimer : There are situations when the vad.py file will not close when you press ctrl+c. In that case, please close that terminal 
-and use a new one.
+run the `vad.py` , `vad1.py`and `load.py` files simultaneously.
 
 This is the official, though strtsnm has a own repo of this. Tested and stable releases will be uploaded here. For beta versions , please visit : https://github.com/STRTSNM/Ketta
+
+# Note :
+Running this on your machine maybe memory intensive. So it is necessary to have atleast 1 GB of free RAM.
