@@ -32,3 +32,4 @@ This is the official, though strtsnm has a own repo of this. Tested and stable r
 
 # Note :
 Running this on your machine maybe memory intensive. So it is necessary to have atleast 1 GB of free RAM.
+Ketta searches on the internet for answers if you ask questions, it uses brave, bing and also google. Just be aware of it.
